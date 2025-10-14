@@ -1,5 +1,5 @@
-# SA_Project
-This project is the main project for the System Analysis and Design subject, 
+# SHABUBU (SA Project)
+This is the main project for the System Analysis and Design subject, 
 developed using React Vite (with TypeScript) and Go.
 
 ## Backend installation
